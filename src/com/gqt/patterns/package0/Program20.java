@@ -1,6 +1,6 @@
 package com.gqt.patterns.package0;
 
-public class program20 {
+public class Program20 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
