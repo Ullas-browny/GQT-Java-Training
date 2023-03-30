@@ -1,6 +1,6 @@
 package com.gqt.arraysproj.package1;
 import java.util.Scanner;
-public class ArrayCode3 {
+public class arrayCode3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
